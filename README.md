@@ -12,7 +12,7 @@ Repositório destinado ao armazenamento e exibição das minhas conquistas acad�
 ### 📊 Business Intelligence & Analytics
 | Certificado | Instituição | Carga Horária | Link/Visualizar |
 | :--- | :--- | :---: | :---: |
-| Analista de Dados Power BI | DataCamp | 50h | [Visualizar](./02-Power-BI-e-Dados/powerbi.png) |
+| Analista de Dados Power BI | DataCamp | 50h | [Visualizar](powerbi.png) |
 
 ---
 
