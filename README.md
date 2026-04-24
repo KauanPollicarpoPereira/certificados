@@ -7,7 +7,7 @@ Repositório destinado ao armazenamento e exibição das minhas conquistas acad�
 ### 🐍 Data Science & Inteligência Artificial
 | Certificado | Instituição | Carga Horária | Link/Visualizar |
 | :--- | :--- | :---: | :---: |
-| Associate Data Scientist in Python | DataCamp | 90h | [Visualizar](./01-Data-Science/datascience.png) |
+| Associate Data Scientist in Python | DataCamp | 90h | [Visualizar](datascience.png) |
 
 ### 📊 Business Intelligence & Analytics
 | Certificado | Instituição | Carga Horária | Link/Visualizar |
